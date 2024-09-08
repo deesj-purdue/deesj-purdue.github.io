@@ -1,3 +1,12 @@
+:root {
+  --black: #000000;
+  --white: #111111;
+  --bg: #0d1117;
+  --border: #2f353d;
+  --high:#79c0ff;
+  --low: #3d4e69
+}
+
 body {
   font-family: Aptos, sans-serif;
   margin: 0;
@@ -11,8 +20,19 @@ body {
 }
 
 .container {
-  background-color: #0d1117;
+  background-color: var(--bg);
   padding: 20px;
   border-radius: 8px;
-  border: 3px solid #141d2b;
+  border: 1px solid var(--border);
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: var(--low);
+  margin: 20px 0;
+}
+
+h2 {
+  color: var(--high);
 }
