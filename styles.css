@@ -3,6 +3,18 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.6;
-  background-color: #0d1117;
+  background-color: #000000;
   color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background-color: #0d1117;
+  padding: 20px;
+  border-radius: 8px;
+  width: 80%;
+  max-width: 800px;
 }
