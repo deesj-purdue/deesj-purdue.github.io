@@ -1,7 +1,7 @@
 # Resume
 
 ## Education
-### Purdue University** | West Lafayette, IN                    August 2022 – (exp.) May 2026  
+### Purdue University** | West Lafayette, IN – August 2022 – *(exp.)* May 2026  
 *Elmore Family School of Electrical and Computer Engineering*  
 **Major:** Bachelor of Science in Computer Engineering / **Concentration:** Software Engineering  
 **GPA:** 3.96 / 4.00  
@@ -26,7 +26,7 @@
 
 ## Project Experience
 
-### EPICS Learning Community – Wolf Project Team                    Fall 2022 – Spring 2023
+### EPICS Learning Community – Wolf Project Team – Fall 2022 – Spring 2023
 *Communication Officer*
 - Maintained EPICS Wolf Project Team website and social media accounts to promote project team progress and fulfillment of project mission
 
@@ -34,7 +34,7 @@
 - Led the prototyping, design, and implementation of the electronics system  
 - Delivered final product to Wolf Park
 
-### Boy Scouts of America – Eagle Scout Project                    Fall 2019 – Winter 2020
+### Boy Scouts of America – Eagle Scout Project – Fall 2019 – Winter 2020
 *Creasey Mahan Nature Preserve Entry Arbor*
 - Designed in Autodesk Inventor, developed bill of materials, secured funding through donations  
 - Managed a team of volunteers to construct and install fence and entry arbor at nature preserve  
@@ -44,15 +44,14 @@
 
 ## Work Experience
 
-### The Kroger Company | Prospect, KY                    June 2022 – Present 
-**Cashier**  
+### The Kroger Company | Prospect, KY – June 2022 – Present 
+*Cashier** 
 - Performed cashier duties efficiently and effectively while providing friendly customer service  
 - Maintained checkout line appearance to meet company standards
 
 ---
 
 ## Skills
-
 - **Programming Languages:** C, C++, Python, MATLAB, Verilog, Assembly  
 - **Software Tools:** Git, GitHub, VS Code  
 - **Microsoft Office:** Excel, Word, PowerPoint, Teams  
