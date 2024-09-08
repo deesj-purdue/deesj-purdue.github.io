@@ -1,7 +1,7 @@
 # Resume
 
 ## Education
-### Purdue University** | West Lafayette, IN – August 2022 – *(exp.)* May 2026  
+### Purdue University | West Lafayette, IN – August 2022 – *(exp.)* May 2026  
 *Elmore Family School of Electrical and Computer Engineering*  
 **Major:** Bachelor of Science in Computer Engineering / **Concentration:** Software Engineering  
 **GPA:** 3.96 / 4.00  
@@ -45,7 +45,7 @@
 ## Work Experience
 
 ### The Kroger Company | Prospect, KY – June 2022 – Present 
-*Cashier** 
+*Cashier*
 - Performed cashier duties efficiently and effectively while providing friendly customer service  
 - Maintained checkout line appearance to meet company standards
 
